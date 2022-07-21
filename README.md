@@ -23,7 +23,7 @@ A full-stack blog built with Flask.
 
 # Future
 
-(1) Pagination
+(1) Sub-templates to handle some repeated code
 
 (2) Password Reset Email
 
