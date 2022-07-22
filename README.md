@@ -1,6 +1,8 @@
 # flask-blog
 A full-stack blog built with Flask.
 
+https://user-images.githubusercontent.com/102181953/180271238-4ee113e4-089f-4366-a7c7-9543b4b11d22.mov
+
 # What I learned
 
 (1) **Don't repeat code** - In past projects I would have every html template with boostrap5 css and javascript. For this project, I created a layout.html file that created the base structure of the website, including the navigation, main content, and sidebar. For every page, I then was able to wrap content within a block and inherit the layout template. Overall, it was very satisfying to see how clean every template became.
