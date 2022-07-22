@@ -34,6 +34,8 @@ https://user-images.githubusercontent.com/102181953/180336188-f39ec5e5-eb92-4a2c
 
 # Resources
 
+Flask-WTF - [Documentation](https://flask-wtf.readthedocs.io/en/1.0.x/)
+
 Miguel Grinburg's 2017 talk called 'Flask at Scale' given at a Python conference. Miguel gave an exceptional description of import issues. Overall, Miguel Grinburg's talks and youtube videos continue to provide new ways to optimize and understand flask.
 
 Corey Schafer's Flask course was instrumental to expanding my Flask knowledge for this project. His project used Bootstrap 4 which led to minor discrepencies that Bootstrap 5's documentation was more than helpful in resolving.  
