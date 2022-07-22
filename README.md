@@ -1,7 +1,7 @@
 # flask-blog
 A full-stack blog built with Flask.
 
-https://user-images.githubusercontent.com/102181953/180271238-4ee113e4-089f-4366-a7c7-9543b4b11d22.mov
+https://user-images.githubusercontent.com/102181953/180336188-f39ec5e5-eb92-4a2c-96f2-8c23e7539fe6.mp4
 
 # What I learned
 
